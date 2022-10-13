@@ -10,7 +10,7 @@ void start();
 void homepage();
 int main()
 {
-	system("color 1F");
+	system("color 2F");
      char name[10];
      mainmenu:
      printf("\t\t\t\t     <<      QUIZ GAME     >>\n");
@@ -178,7 +178,7 @@ scanf("\n%c",&n);
    printf("\n ----------------------------------------------------");    
 printf("\n|Q.2 At Which Monument in Delhi did the British forces |\n|     arrest Bahadur Shah Zafar in September 1857?     |");
 printf("\n ------------ ------------------------------------------");
-printf("\n|a.Humayun’s Tomb | b.Nizamuddin Dargah     |");
+printf("\n|a.Humayunâ€™s Tomb | b.Nizamuddin Dargah     |");
 printf("\n -------------------------------------------");
 printf("\n|c.Purana Qila    | d.Tughlaqabad fort      |");
 printf("\n --------------------------------------------");
